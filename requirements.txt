@@ -1,0 +1,6 @@
+pandas
+warnings
+numpy
+pycaret
+streamlit
+pickle
